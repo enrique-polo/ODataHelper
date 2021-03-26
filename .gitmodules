@@ -16,6 +16,3 @@
 [submodule "ODataHelper.AspNet.EntityFrameworkCore"]
 	path = ODataHelper.AspNet.EntityFrameworkCore
 	url = https://github.com/enrique-polo/ODataHelper.AspNet.EntityFrameworkCore.git
-[submodule "ODataHelper.AspNet.EntityFramework"]
-	path = ODataHelper.AspNet.EntityFramework
-	url = https://github.com/enrique-polo/ODataHelper.AspNet.EntityFramework.git
