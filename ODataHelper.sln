@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ODataHelper.AspNetCore.Abstractions", "ODataHelper.AspNetCore.Abstractions\ODataHelper.AspNetCore.Abstractions.csproj", "{01C1BD41-43B6-4702-8E68-5FC199BC4970}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ODataHelper.AspNetCore", "ODataHelper.AspNetCore\ODataHelper.AspNetCore.csproj", "{B91E17A0-06E5-400A-AE18-FCCC4955012F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ODataHelper.AspNetCore.EntityFrameworkCore", "ODataHelper.AspNetCore.EntityFrameworkCore\ODataHelper.AspNetCore.EntityFrameworkCore.csproj", "{A0E37567-6504-4715-AA86-A7B2E7F3B65E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ODataHelper.AspNet", "ODataHelper.AspNet\ODataHelper.AspNet.csproj", "{358A4FED-277B-4327-B57C-2A2C40432C2E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ODataHelper.AspNet.Abstractions", "ODataHelper.AspNet.Abstractions\ODataHelper.AspNet.Abstractions.csproj", "{21982C67-8D59-4029-92C2-947C8606230D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ODataHelper.AspNet.EntityFrameworkCore", "ODataHelper.AspNet.EntityFrameworkCore\ODataHelper.AspNet.EntityFrameworkCore.csproj", "{52211870-5B57-4951-9117-82D59F524A00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01C1BD41-43B6-4702-8E68-5FC199BC4970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C1BD41-43B6-4702-8E68-5FC199BC4970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C1BD41-43B6-4702-8E68-5FC199BC4970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C1BD41-43B6-4702-8E68-5FC199BC4970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B91E17A0-06E5-400A-AE18-FCCC4955012F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B91E17A0-06E5-400A-AE18-FCCC4955012F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B91E17A0-06E5-400A-AE18-FCCC4955012F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B91E17A0-06E5-400A-AE18-FCCC4955012F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0E37567-6504-4715-AA86-A7B2E7F3B65E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E37567-6504-4715-AA86-A7B2E7F3B65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E37567-6504-4715-AA86-A7B2E7F3B65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E37567-6504-4715-AA86-A7B2E7F3B65E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{358A4FED-277B-4327-B57C-2A2C40432C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{358A4FED-277B-4327-B57C-2A2C40432C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{358A4FED-277B-4327-B57C-2A2C40432C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{358A4FED-277B-4327-B57C-2A2C40432C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21982C67-8D59-4029-92C2-947C8606230D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21982C67-8D59-4029-92C2-947C8606230D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21982C67-8D59-4029-92C2-947C8606230D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21982C67-8D59-4029-92C2-947C8606230D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52211870-5B57-4951-9117-82D59F524A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52211870-5B57-4951-9117-82D59F524A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52211870-5B57-4951-9117-82D59F524A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52211870-5B57-4951-9117-82D59F524A00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9C81182-D0F4-4036-97E5-8486F7F62408}
+	EndGlobalSection
+EndGlobal
