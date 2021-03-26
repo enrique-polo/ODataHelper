@@ -1,0 +1,24 @@
+[submodule "ODataHelper.AspNetCore"]
+	path = ODataHelper.AspNetCore
+	url = https://github.com/enrique-polo/ODataHelper.AspNetCore.git
+[submodule "ODataHelper.AspNetCore.Abstractions"]
+	path = ODataHelper.AspNetCore.Abstractions
+	url = https://github.com/enrique-polo/ODataHelper.AspNetCore.Abstractions.git
+[submodule "ODataHelper.AspNetCore.EntityFrameworkCore"]
+	path = ODataHelper.AspNetCore.EntityFrameworkCore
+	url = https://github.com/enrique-polo/ODataHelper.AspNetCore.EntityFrameworkCore.git
+[submodule "ODataHelper.AspNetCore.EntityFramework"]
+	path = ODataHelper.AspNetCore.EntityFramework
+	url = https://github.com/enrique-polo/ODataHelper.AspNetCore.EntityFramework.git
+[submodule "ODataHelper.AspNet"]
+	path = ODataHelper.AspNet
+	url = https://github.com/enrique-polo/ODataHelper.AspNet.git
+[submodule "ODataHelper.AspNet.Abstractions"]
+	path = ODataHelper.AspNet.Abstractions
+	url = https://github.com/enrique-polo/ODataHelper.AspNet.Abstractions.git
+[submodule "ODataHelper.AspNet.EntityFrameworkCore"]
+	path = ODataHelper.AspNet.EntityFrameworkCore
+	url = https://github.com/enrique-polo/ODataHelper.AspNet.EntityFrameworkCore.git
+[submodule "ODataHelper.AspNet.EntityFramework"]
+	path = ODataHelper.AspNet.EntityFramework
+	url = https://github.com/enrique-polo/ODataHelper.AspNet.EntityFramework.git
